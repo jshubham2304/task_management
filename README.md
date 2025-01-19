@@ -111,3 +111,7 @@ flutter test
 - Clean separation of concerns
 - Reactive programming with Streams
 - Error handling and recovery
+
+#### Previews
+
+[S1](./preview/Screenshot_20250119_181731.jpg)
