@@ -112,6 +112,10 @@ flutter test
 - Reactive programming with Streams
 - Error handling and recovery
 
-#### Previews
+#### Previews and Demos
 
+[Demo](./preview/demo.mp4)
 [S1](./preview/Screenshot_20250119_181731.jpg)
+[S2](./preview/Screenshot_20250119_181737.jpg)
+[S3](./preview/Screenshot_20250119_181747.jpg)
+[firebase_sync](./preview/firebase_sync.jpg)
